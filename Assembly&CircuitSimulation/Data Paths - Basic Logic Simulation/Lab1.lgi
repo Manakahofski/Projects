@@ -1,0 +1,437 @@
+41 2 0
+38 1
+22 8 32 48 12 0 \NUL
+Lab 1
+22 8 64 98 44 0 \NUL
+Reali, Mason
+22 8 96 53 76 0 \NUL
+mreali
+22 64 272 264 252 0 \NUL
+Part A Output                            
+8 216 184 265 135 1 0
+8 280 184 329 135 1 0
+8 352 184 401 135 1 0
+11 168 424 195 326 0 1
+20 264 208 323 189 0
+in_3
+20 336 208 395 189 0
+in_2
+20 408 208 467 189 0
+in_1
+8 425 184 474 135 1 0
+20 480 208 539 189 0
+in_0
+19 80 312 139 293 0
+a_3
+19 64 336 123 317 0
+a_2
+19 48 360 107 341 0
+a_1
+19 32 384 91 365 0
+a_0
+22 42 474 335 454 0 \NUL
+Part A takes the 4 inputs as a Binary number
+22 64 496 318 476 0 \NUL
+ and represents it in hexadecimal form
+22 375 471 776 451 0 \NUL
+Part B takes the input as binary and as the number increases
+7 360 664 409 615 0 1
+7 360 704 409 655 0 1
+19 272 592 331 573 0
+c_2
+19 272 632 331 613 0
+c_1
+19 272 672 331 653 0
+c_0
+22 416 688 480 668 0 \NUL
+SOP/POS
+22 416 648 492 628 0 \NUL
+NAND Only
+22 416 608 484 588 0 \NUL
+NOR Only
+22 367 495 787 475 0 \NUL
+the lights follow a pattern starting at 1 of: 2 on, 1 on, 1 on, all off.
+22 161 738 612 718 0 \NUL
+Part C is that all three LEDs should have the same output at all times
+22 126 763 641 743 0 \NUL
+following the boolean logic A'C+AB' derived from the truth table given for Part C
+22 280 32 653 12 0 \NUL
+You are only permitted to modify or add text to this page.
+22 280 56 605 36 0 \NUL
+Your circuit must use senders and/or receivers to
+22 280 80 538 60 0 \NUL
+interface with these inputs and outputs.
+7 472 360 521 311 0 1
+7 544 360 593 311 0 1
+7 616 360 665 311 0 1
+19 416 392 475 373 0
+b_2
+19 488 392 547 373 0
+b_1
+19 560 392 619 373 0
+b_0
+7 360 624 409 575 0 1
+22 64 136 616 116 0 \NUL
+Input                                                                                                                                 
+22 448 272 650 252 0 \NUL
+Part B Output                            
+22 272 552 473 532 0 \NUL
+Part C Output                            
+22 78 786 700 766 0 \NUL
+and follows the pattern starting at 1 of: on,off,on,on,on,off,off,off as the binary number increases
+1 471 159 481 198
+1 409 198 398 159
+1 337 198 326 159
+1 265 198 262 159
+1 169 390 136 302
+1 169 396 120 326
+1 169 402 104 350
+1 169 408 88 374
+1 328 622 361 639
+1 328 662 361 679
+1 472 382 473 335
+1 544 382 545 335
+1 616 382 617 335
+1 328 582 361 599
+38 2
+22 8 32 48 12 0 \NUL
+Lab 1
+22 8 64 98 44 0 \NUL
+Reali, Mason
+22 8 96 53 76 0 \NUL
+mreali
+19 392 168 451 149 0
+a0
+7 448 496 497 447 0 1
+19 424 408 483 389 0
+c0
+7 496 408 545 359 0 1
+7 496 456 545 407 0 1
+7 448 376 497 327 0 1
+19 424 432 483 413 0
+c1
+19 424 288 483 269 0
+b0
+7 496 288 545 239 0 1
+7 496 336 545 287 0 1
+7 448 256 497 207 0 1
+19 424 312 483 293 0
+b1
+19 344 200 403 181 0
+a1
+7 400 496 449 447 0 1
+19 384 528 443 509 0
+d0
+19 344 504 403 485 0
+d1
+7 360 456 409 407 0 1
+19 296 456 355 437 0
+e1
+19 296 424 355 405 0
+e0
+7 360 408 409 359 0 1
+7 400 376 449 327 0 1
+7 360 336 409 287 0 1
+19 296 288 355 269 0
+f1
+19 296 248 355 229 0
+f0
+7 360 288 409 239 0 1
+7 400 256 449 207 0 1
+19 296 376 355 357 0
+g1
+19 296 344 355 325 0
+g0
+7 200 376 249 327 0 1
+7 152 376 201 327 0 1
+19 136 408 195 389 0
+h0
+19 96 384 155 365 0
+h1
+22 279 60 667 40 0 \NUL
+Your circuit must use senders to interface with these LEDs.
+22 280 32 522 12 0 \NUL
+Do not add any circuitry to this page.
+1 480 398 497 383
+1 480 422 497 431
+1 480 278 497 263
+1 449 231 448 158
+1 480 302 497 311
+1 449 471 440 518
+1 401 471 400 494
+1 352 446 361 431
+1 352 414 361 383
+1 352 278 361 311
+1 352 238 361 263
+1 401 231 400 190
+1 352 366 449 351
+1 352 334 401 351
+1 201 351 192 398
+1 153 351 152 374
+38 3
+22 8 32 48 12 0 \NUL
+Lab 1
+22 8 64 98 44 0 \NUL
+Reali, Mason
+22 8 96 53 76 0 \NUL
+mreali
+22 24 600 390 580 0 \NUL
+these are only present so circuit simulates without error
+22 24 624 291 604 0 \NUL
+remove these once logic is implemented
+22 32 184 262 164 0 \NUL
+placeholder senders and receivers
+20 128 400 187 381 0
+e1
+20 128 424 187 405 0
+e0
+20 128 448 187 429 0
+f1
+20 128 472 187 453 0
+f0
+20 128 496 187 477 0
+g1
+20 128 520 187 501 0
+g0
+20 128 544 187 525 0
+h1
+20 128 568 187 549 0
+h0
+20 128 208 187 189 0
+a1
+20 128 232 187 213 0
+a0
+20 128 256 187 237 0
+b1
+20 128 280 187 261 0
+b0
+20 128 304 187 285 0
+c1
+20 128 328 187 309 0
+c0
+20 128 352 187 333 0
+d1
+20 128 376 187 357 0
+d0
+38 4
+22 8 32 48 12 0 \NUL
+Lab 1
+22 8 64 98 44 0 \NUL
+Reali, Mason
+22 8 96 53 76 0 \NUL
+mreali
+19 312 359 371 340 0
+in_3
+19 312 383 371 364 0
+in_2
+19 312 407 371 388 0
+in_1
+19 312 431 371 412 0
+in_0
+20 422 359 481 340 0
+a_3
+20 420 383 479 364 0
+a_2
+20 420 407 479 388 0
+a_1
+20 420 431 479 412 0
+a_0
+22 6 190 789 170 0 \NUL
+All of the inputs were connected to the proper receiver. The LED will now represent binary numbers in hexadecimal form.
+22 370 52 421 32 0 \NUL
+PART A
+1 423 349 368 349
+1 421 373 368 373
+1 421 397 368 397
+1 421 421 368 421
+38 5
+22 8 32 48 12 0 \NUL
+Lab 1
+22 8 64 98 44 0 \NUL
+Reali, Mason
+22 8 96 53 76 0 \NUL
+mreali
+20 615 407 674 388 0
+b_1
+20 604 571 663 552 0
+b_0
+20 539 256 598 237 0
+b_2
+19 235 305 294 286 0
+in_1
+19 235 210 294 191 0
+in_0
+14 221 586 270 537
+5 343 292 392 243 0
+5 344 253 393 204 0
+4 452 271 501 222 0 0
+3 395 306 444 257 0 0
+3 396 239 445 190 0 0
+19 235 238 294 219 0
+in_1
+19 236 407 295 388 0
+in_0
+19 235 277 294 258 0
+in_0
+22 38 634 741 614 0 \NUL
+For light b_0, the output is 0 regardless of input. This circuit has been connected to ground to represent that.
+22 18 455 773 435 0 \NUL
+For light b_1, the output was always exactly the same as the input of in_0, so it has been connected with just a wire.
+22 50 340 720 320 0 \NUL
+For light b_2, I noticed only in_1 and in_2 were relevant to the circuit and used POS to solve the circuit.
+22 368 62 421 42 0 \NUL
+PART B
+22 54 139 742 119 0 \NUL
+The patters found for the truth tables were that b_0 is always 0, b_1 has the same value as in_0, and b_2 
+22 294 159 522 139 0 \NUL
+only depended upon in_0 and in_1
+22 8 367 752 347 0 \NUL
+This circuit makes the LED for b_2 stay on for 2 values, then turn off for 2 values, and continue alternating as such
+22 288 479 538 459 0 \NUL
+now b_1 will alternate with each value
+1 267 561 605 561
+1 396 267 389 267
+1 390 228 397 228
+1 453 260 441 281
+1 453 232 442 214
+1 498 246 540 246
+1 291 200 397 200
+1 291 295 396 295
+1 616 397 292 397
+1 291 228 345 228
+1 344 267 291 267
+38 6
+22 8 32 48 12 0 \NUL
+Lab 1
+22 8 64 98 44 0 \NUL
+Reali, Mason
+22 8 96 53 76 0 \NUL
+mreali
+20 638 650 697 631 0
+c_2
+20 645 382 704 363 0
+c_1
+20 572 170 631 151 0
+c_0
+4 458 185 507 136 0 0
+3 352 146 401 97 0 0
+3 353 212 402 163 0 0
+19 168 113 227 94 0
+in_2
+19 168 140 227 121 0
+in_0
+19 169 178 228 159 0
+in_2
+19 169 205 228 186 0
+in_1
+5 266 102 315 53 0
+5 267 245 316 196 0
+19 170 341 229 322 0
+in_2
+19 170 368 229 349 0
+in_0
+19 171 397 230 378 0
+in_2
+19 171 424 230 405 0
+in_1
+3 272 320 321 271 0 1
+3 271 473 320 424 0 1
+3 356 369 405 320 0 1
+3 425 369 474 320 0 1
+3 357 426 406 377 0 1
+3 424 426 473 377 0 1
+3 502 427 551 378 0 1
+3 501 367 550 318 0 1
+3 573 397 622 348 0 1
+19 168 611 227 592 0
+in_2
+19 168 638 227 619 0
+in_0
+19 169 667 228 648 0
+in_2
+19 169 694 228 675 0
+in_1
+4 285 593 334 544 0 1
+4 288 744 337 695 0 1
+4 376 595 425 546 0 1
+4 376 639 425 590 0 1
+4 375 696 424 647 0 1
+4 378 743 427 694 0 1
+4 439 612 488 563 0 1
+4 444 714 493 665 0 1
+4 506 663 555 614 0 1
+4 563 663 612 614 0 1
+22 12 262 739 242 0 \NUL
+^Part 1:  This is the circuit based off of the truth table given for part 1 and the simplified boolean logic of A'C+AB'
+22 11 512 742 492 0 \NUL
+^Part 2: This circuit is fuctionally the same as the first, but made entirely of NAND gates to fit the criteria of part 2
+22 9 774 732 754 0 \NUL
+^Part 3: This circuit is fuctionally the same as the first, but made entirely of NOR gates to fit the criteria of part 3
+22 333 34 385 14 0 \NUL
+PART C
+22 163 59 776 39 0 \NUL
+All three circuits follow the pattern as the binary number increases of: on,off,on,on,on,off,off,off
+1 267 77 224 103
+1 353 135 224 130
+1 353 107 312 77
+1 354 173 225 168
+1 268 220 225 195
+1 354 201 313 220
+1 459 146 398 121
+1 459 174 399 187
+1 573 160 504 160
+1 273 281 226 331
+1 273 309 226 331
+1 272 434 227 414
+1 272 462 227 414
+1 426 330 402 344
+1 426 358 402 344
+1 357 330 318 295
+1 357 358 226 358
+1 425 387 403 401
+1 425 415 403 401
+1 358 415 317 448
+1 227 387 358 387
+1 471 344 502 328
+1 471 344 502 356
+1 470 401 503 388
+1 470 401 503 416
+1 548 402 574 386
+1 547 342 574 358
+1 646 372 619 372
+1 286 554 224 601
+1 286 582 224 601
+1 289 733 225 684
+1 289 705 225 684
+1 377 556 331 568
+1 377 584 331 568
+1 377 600 224 628
+1 377 628 224 628
+1 376 657 225 657
+1 376 685 225 657
+1 379 732 334 719
+1 379 704 334 719
+1 440 573 422 570
+1 440 601 422 614
+1 445 675 421 671
+1 445 703 424 718
+1 507 624 485 587
+1 507 652 490 689
+1 564 624 552 638
+1 564 652 552 638
+1 639 640 609 638
+39 16777215
+47 0
+40 1 8 8
+50 800 800
+51 1 30
+30
+System
+20
+700
+0
+0
+1
+2
+2
+34
